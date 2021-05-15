@@ -56,7 +56,7 @@ echo "Description : ${des}\n\n\n";
 echo "Image URL : ${img}\n\n";
 echo "Video URL : ${vid}\n\n";
 echo "Subtitle URL : ${sub}\n\n\n\n\n\n\n\n";
-echo "✮ Created by the-blackpirate Patil\n\n";
+echo "✮ Created by the-blackpirate \n\n";
 
 }
 }
